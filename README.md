@@ -215,14 +215,7 @@ The pipeline follows five stages, one per module.
 spark/
 ├── README.md                              # this file
 ├── US_Ecommerce_Spark_Combined.ipynb      # combined notebook (Modules 1–5)
-└── Resource/                              # original course notebooks and PDFs (Olist version)
-    ├── Module 1 - Data Ingestion and Exploration.ipynb
-    ├── Module 2 - Data Cleaning and Transformation.ipynb
-    ├── Module 3 - Data Integration and Aggregation.ipynb
-    ├── Module 4 - Property Optmization.ipynb
-    ├── Module 5 - Data Serving.ipynb
-    └── Projects.pdf
-```
+
 
 ## Final summary
 
